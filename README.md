@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on making my portfolio using Laravel
 - 🌱 I’m currently learning Laravel & Python
-- 🤔 I’m looking for help with making better designs. :-/
+- 🤔 I’m looking for help with making better designs
 - ⚡ Fun fact: I like learning about the cosmos and how our universe works!
 
 [![Website](https://img.shields.io/website?label=cornellvdstraaten.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://cornellvdstraaten.nl/)
