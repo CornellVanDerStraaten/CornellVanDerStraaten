@@ -1,24 +1,11 @@
-### Hi there 👋
+### Hi there, I am Cornell 👋
 
-<!--
-**CornellVanDerStraaten/CornellVanDerStraaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+- 🔭 I’m currently working on making my portfolio using Laravel
+- 🌱 I’m currently learning Laravel & Python
+- 🤔 I’m looking for help with making better designs. :-/
+- ⚡ Fun fact: I like learning about the cosmos and how our universe works!
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ### Spotify Playing 🎧
 
