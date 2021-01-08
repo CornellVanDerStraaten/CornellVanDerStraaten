@@ -1,7 +1,7 @@
 ### Hi there, I am Cornell 👋
 
 - 🔭 I’m currently working on making my portfolio using Laravel
-- 🌱 I’m currently learning Laravel & Python
+- 🌱 I’m currently learning Laravel
 - 🤔 I’m looking for help with making better designs
 - ⚡ Fun fact: I like learning about the cosmos and how our universe works!
 
